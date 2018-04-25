@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+#centre {	/*右侧快捷菜单div*/
+	width: 98%;	/*设置右侧快捷菜单div宽度为父层div宽度的98%*/
+	margin: 0 auto;	/*设置右侧快捷菜单div居中显示*/
+	height: 28px;	/*设置右侧快捷菜单div高度为28px*/
+	line-height: 28px;	/*设置右侧快捷菜单div行高为28px*/
+	border-bottom: 1px solid #E0C21D;	/*设置右侧快捷菜单div的底部边框*/
+}
